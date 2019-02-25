@@ -1,0 +1,19 @@
+{
+  "name": "react-native-fold",
+  "version": "1.0.0",
+  "description": "React Native Plugin to manage your app on fold phones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simmetrialab/react-native-fold.git"
+  },
+  "author": "simmetrialab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simmetrialab/react-native-fold/issues"
+  },
+  "homepage": "https://github.com/simmetrialab/react-native-fold#readme"
+}
